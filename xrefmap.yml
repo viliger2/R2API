@@ -9020,6 +9020,19 @@ references:
   fullName.vb: R2API.Networking.NetworkingAPI.RegisterRequestTypes(Of TRequest, TReply)()
   nameWithType: NetworkingAPI.RegisterRequestTypes<TRequest, TReply>()
   nameWithType.vb: NetworkingAPI.RegisterRequestTypes(Of TRequest, TReply)()
+- uid: R2API.Networking.NetworkingAPI.SetHooks
+  name: SetHooks()
+  href: api/R2API.Networking.NetworkingAPI.html#R2API_Networking_NetworkingAPI_SetHooks
+  commentId: M:R2API.Networking.NetworkingAPI.SetHooks
+  fullName: R2API.Networking.NetworkingAPI.SetHooks()
+  nameWithType: NetworkingAPI.SetHooks()
+- uid: R2API.Networking.NetworkingAPI.SetHooks*
+  name: SetHooks
+  href: api/R2API.Networking.NetworkingAPI.html#R2API_Networking_NetworkingAPI_SetHooks_
+  commentId: Overload:R2API.Networking.NetworkingAPI.SetHooks
+  isSpec: "True"
+  fullName: R2API.Networking.NetworkingAPI.SetHooks
+  nameWithType: NetworkingAPI.SetHooks
 - uid: R2API.Networking.NetworkingHelpers
   name: NetworkingHelpers
   href: api/R2API.Networking.NetworkingHelpers.html
